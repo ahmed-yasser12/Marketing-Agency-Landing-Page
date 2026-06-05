@@ -11,7 +11,7 @@ A modern and responsive landing page built with React.js and Tailwind CSS for a 
 
 ## 📸 Preview
 
-Add screenshots of the project here.
+<img width="1784" height="857" alt="agency 1" src="https://github.com/user-attachments/assets/3e889a1d-4314-4c56-a3b7-2b91ec52bb48" />
 
 ## ✨ Features
 

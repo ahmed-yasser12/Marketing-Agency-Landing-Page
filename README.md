@@ -39,13 +39,13 @@ Add screenshots of the project here.
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/ahmed-yasser12/Marketing-Agency-Landing-Page.git
 ```
 
 Navigate to the project folder:
 
 ```bash
-cd your-repository
+cd Marketing-Agency-Landing-Page
 ```
 
 Install dependencies:

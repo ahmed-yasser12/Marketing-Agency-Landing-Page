@@ -1,16 +1,82 @@
-# React + Vite
+<div align="center">
+# 🚀 Marketing Agency Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive landing page built with React.js and Tailwind CSS for a digital marketing agency. The project focuses on clean UI, smooth animations, and an excellent user experience across all devices.
 
-Currently, two official plugins are available:
+</div>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Live Demo
 
-## React Compiler
+[Live Demo](YOUR_VERCEL_LINK)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 📸 Preview
 
-## Expanding the ESLint configuration
+Add screenshots of the project here.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ✨ Features
+
+* Fully Responsive Design
+* Modern UI/UX
+* Smooth Animations with Framer Motion
+* Contact Form Integration using Web3Forms
+* Optimized Performance
+* Reusable Components
+* Mobile-First Approach
+
+## 🛠️ Technologies Used
+
+* React.js
+* JavaScript (ES6+)
+* Tailwind CSS
+* Framer Motion
+* Web3Forms
+* Vite
+
+
+## ⚙️ Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/your-username/your-repository.git
+```
+
+Navigate to the project folder:
+
+```bash
+cd your-repository
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run the development server:
+
+```bash
+npm run dev
+```
+
+Build for production:
+
+```bash
+npm run build
+```
+
+## 📬 Contact
+
+Ahmed Yasser Samir
+
+Frontend Developer | React.js | Next.js
+
+LinkedIn:
+https://www.linkedin.com/in/ahmed-yasser-b34375228/
+
+GitHub:
+https://github.com/ahmed-yasser12
+
+## 📄 License
+
+This project is open-source and available under the MIT License.

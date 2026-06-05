@@ -5,7 +5,7 @@ import path from "path"
 
 export default defineConfig({
   plugins: [react(), tailwindcss()],
-  
+  base: '/Marketing-Agency-Landing-Page/',
   resolve: {
     alias: {
       // eslint-disable-next-line no-undef

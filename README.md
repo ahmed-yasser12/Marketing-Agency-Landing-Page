@@ -19,6 +19,7 @@ Add screenshots of the project here.
 * Modern UI/UX
 * Smooth Animations with Framer Motion
 * Contact Form Integration using Web3Forms
+* Dark Mode with tailwindCss 
 * Optimized Performance
 * Reusable Components
 * Mobile-First Approach
